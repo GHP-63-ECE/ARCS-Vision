@@ -1,0 +1,14 @@
+clearance from bottom (excluding cam size) = 2.379 inches
+
+kaggle data size = 256x256
+
+images trained on = 1500+
+
+crack size = 0.5inch width, length?, depth .5-1inch
+
+
+MVP will use jevois a33 and needs to fill in cracks
+
+Filling in cracks is biggest problem rn (where camera to run this) need to write code for this
+
+
